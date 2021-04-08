@@ -23,15 +23,16 @@
 <br>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
-<h3 align="center">Languages and Frameworks</h3>
+<h3 align="center">Languages & Frameworks & OS</h3>
 <br>
 
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="Qt" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="Qt" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="40" height="40"/>
   <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="Symfony" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" alt="redhat" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" width="40" height="40"/>
  
 
 

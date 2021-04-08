@@ -29,11 +29,11 @@
 <br>
 
 <p align="center">
-    <img src="  https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="Qt" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="Qt" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="40" height="40"/>
   <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="Symfony" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
-  <img src=" https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" alt="redhat" width="40" height="40"/> 
  
 
 
